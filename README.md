@@ -7,7 +7,7 @@
 
 ## 😎 Connect with me
 
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sample_twitter)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/garg_asmi])
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sample_linkedin)
 [![HackerRank](https://img.shields.io/badge/hackerrank-%2365FFD6.svg?&style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/sample_hackerrank)
 
