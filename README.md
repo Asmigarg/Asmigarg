@@ -1,7 +1,7 @@
 # Hi there, I'm Asmi! 👋
 
 - 🌱 Currently mastering *Machine Learning*,*Artificial Intelligence* and *Web Technologies*
-- 👨‍💻 All of my projects are available [here](https://github.com/Aditya-04030)
+- 👨‍💻 All of my projects are available [https://github.com/Asmigarg/Asmigarg.git]
 - 📫 How to reach me *asmigarg569@gmail.com*
 - ⚡ Fun fact 
 
