@@ -1,11 +1,10 @@
-<img src="C:\Users\asmig\Downloads\Black Minimal Motivation Quote LinkedIn Banner.png">
+<h2> HI, I AM ASMI GARG!! </h2>
 <h3 align="center">I am currently a second-year undergraduate student pursuing a Bachelor's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning. My academic journey is driven by a deep passion for learning and a strong commitment to excellence. I am enthusiastic about embracing challenging tasks and consistently aim to deliver professional and high-quality results.</h3>
 
+- 🔭 I’m currently working on **different projects**
+- 🌱 I’m currently learning **MongoDB & Node.js**
 - 👨‍💻 All of my projects are available at [https://github.com/Asmigarg/Asmigarg.git](https://github.com/Asmigarg/Asmigarg.git)
-
 - 📫 How to reach me **asmigarg569@gmail.com**
-
-- ⚡ Fun fact **I make jokes when I am uncomfortable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
