@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Asmi</h1>
+<img src="C:\Users\asmig\Downloads\Black Minimal Motivation Quote LinkedIn Banner.png">
 <h3 align="center">I am currently a second-year undergraduate student pursuing a Bachelor's degree in Computer Science, specializing in Artificial Intelligence and Machine Learning. My academic journey is driven by a deep passion for learning and a strong commitment to excellence. I am enthusiastic about embracing challenging tasks and consistently aim to deliver professional and high-quality results.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Asmigarg/Asmigarg.git](https://github.com/Asmigarg/Asmigarg.git)
